@@ -87,7 +87,7 @@ reduced exercise capacity and abnormal ECG patterns strongly indicate cardiovasc
 ## Results
 
 - Cross-validation accuracy: ~85%
-- ROC AUC: ~0.88
+- ROC AUC: ~0.93
 
 ---
 
