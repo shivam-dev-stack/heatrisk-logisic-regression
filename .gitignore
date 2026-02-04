@@ -1,0 +1,30 @@
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*/__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data folder (raw datasets)
+data/
+
+# Notebook cache
+notebook/__pycache__/
+
+# Src cache
+src/__pycache__/
+
+# Python artifacts
+*.pyc
+*.pyo
+*.pyd
+
+# Model files (optional – if large)
+model.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
