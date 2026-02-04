@@ -7,7 +7,7 @@ The workflow includes Exploratory Data Analysis (EDA), feature interpretation, m
 
 The goal was to build an interpretable and reliable classifier rather than maximizing raw accuracy.
 
-dataset: <https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data>
+[dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset/data)
 
 ---
 
@@ -47,7 +47,7 @@ Key observations:
 ### Logistic Regression (Primary Model)
 
 - 5-fold Cross Validation Accuracy ≈ **85%**
-- ROC AUC ≈ **0.88**
+- ROC AUC ≈ **0.93**
 
 Logistic Regression was selected due to:
 
